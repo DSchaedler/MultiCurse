@@ -1,0 +1,15 @@
+!! FTB packs are not compatible, but can be done directly through MultiMC !!
+
+
+=== COMPATABLE ===
+proton							1.10.2
+stoneblock						1.12.2
+sevtech-ages						1.12.2
+
+=== FTB - INCOMPATIBLE ===
+ftb-ultimate-reloaded
+
+=== UNKNOWN ===
+project-ozone						1.7.10
+project-ozone-3-a-new-way-forward			1.12.2
+botania-skyblock-the-modpack-the-mod-the-modpack	1.7.10

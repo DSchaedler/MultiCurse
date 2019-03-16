@@ -1,0 +1,5 @@
+proton
+1.10.2
+
+Line 1: Curseforge project name - must be formatted like the end of this link: https://minecraft.curseforge.com/projects/proton - e.g. proton, stoneblock, etc.
+Line 2: Minecraft Version - Please ensure this is correct
