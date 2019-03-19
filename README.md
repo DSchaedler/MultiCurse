@@ -25,8 +25,8 @@ MultiCurse uses the following Projects:
  - Running Install.bat for an existing modpack will overwrite the profile with the latest version of the Modpack. This will likely require you to re-install Forge.
  
  ## License
- MultiCurse is Licensed under the MIT License, reproduced below.
- 
+Applicable Files (Excluding the Property of MultiMC and Vazco Lavos) are Licensed under the MIT License, reproduced below.
+
  
 MIT License
 
