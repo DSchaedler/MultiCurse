@@ -25,7 +25,7 @@ MultiCurse uses the following Projects:
  - Running Install.bat for an existing modpack will overwrite the profile with the latest version of the Modpack. This will likely require you to re-install Forge.
 
 ## Why the 'zzz' Folder?
-The installation scripts use the first letter of the modpack folder from CMPDL and the cursforge name to combine the two folders into a single instance. No Modpacks are named that they come after 'zzz' Alphabetically, ensuring they are found and used by the scripts. If you make a modpack called 'zzzz', this script will break and I will be sad.
+The installation scripts use the first letter of the modpack folder from CMPDL and the cursforge name to combine the two folders into a single instance. No Modpacks are named such that they come after 'zzz' alphabetically, ensuring they are found and used by the scripts. If you make a modpack called 'zzzz', this script will break and I will be sad.
 
  ## License
 Applicable Files (Excluding the Property of MultiMC and Vazco Lavos) are Licensed under the MIT License, reproduced below.
